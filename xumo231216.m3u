@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1  tvg-name="ABC News Live" tvg-logo="https://image.xumo.com/v1/channels/channel/99991377/80x80.webp?type=color_onBlack" group-title="News",ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1  tvg-name="BBC News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/80x80.webp?type=color_onBlack" group-title="News",BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1  tvg-name="CBC News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991276/80x80.webp?type=color_onBlack" group-title="News",CBC News
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1  tvg-name="Cheddar News" tvg-logo="https://image.xumo.com/v1/channels/channel/99991220/80x80.webp?type=color_onBlack" group-title="News",Cheddar News
+https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_channelId=99991220
+#EXTINF:-1  tvg-name="NBC News Now" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/80x80.webp?type=color_onBlack" group-title="News",NBC News Now
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+#EXTINF:-1  tvg-name="Today All Day" tvg-logo="https://image.xumo.com/v1/channels/channel/99991245/80x80.webp?type=color_onBlack" group-title="News",Today All Day
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+#EXTINF:-1  tvg-name="TYT" tvg-logo="https://image.xumo.com/v1/channels/channel/99991147/80x80.webp?type=color_onBlack" group-title="News",TYT
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1  tvg-name="WeatherSpy" tvg-logo="https://image.xumo.com/v1/channels/channel/99991372/80x80.webp?type=color_onBlack" group-title="Weather",WeatherSpy
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991372
+#EXTINF:-1  tvg-name="ACC Digital Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99951364/80x80.webp?type=color_onBlack" group-title="Sports",ACC Digital Network
+https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315
+#EXTINF:-1  tvg-name="ACL Cornhole TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991697/80x80.webp?type=color_onBlack" group-title="Sports",ACL Cornhole TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991697/hls/CORNHOLETV_SCTE.m3u8?ads.xumo_channelId=99991697
+#EXTINF:-1  tvg-name="Billiard TV" tvg-logo="https://image.xumo.com/v1/channels/channel/8111111/80x80.webp?type=color_onBlack" group-title="Sports",Billiard TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991627/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99991627
+#EXTINF:-1  tvg-name="FanDuel TV Extra" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Sports",FanDuel TV Extra
+https://dbrb49pjoymg4.cloudfront.net/10001/99951266/hls/playlist.m3u8?ads.xumo_channelId=99951266
+#EXTINF:-1  tvg-name="Nitro Circus" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Sports",Nitro Circus
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991294
+#EXTINF:-1  tvg-name="Outside" tvg-logo="https://image.xumo.com/v1/channels/channel/99991189/80x80.webp?type=color_onBlack" group-title="Sports",Outside
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1  tvg-name="PGA Tour" tvg-logo="https://image.xumo.com/v1/channels/channel/99991281/80x80.webp?type=color_onBlack" group-title="Sports",PGA Tour
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991281
+#EXTINF:-1  tvg-name="PursuitUp" tvg-logo="https://image.xumo.com/v1/channels/channel/99991648/80x80.webp?type=color_onBlack" group-title="Sports",PursuitUp
+https://dbrb49pjoymg4.cloudfront.net/10001/99991648/hls/playlist.m3u8?ads.xumo_channelId=99991648
+#EXTINF:-1  tvg-name="USGA" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Sports",USGA
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991389
+#EXTINF:-1  tvg-name="WaypointTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991358/80x80.webp?type=color_onBlack" group-title="Sports",WaypointTV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991358
+#EXTINF:-1  tvg-name="World Poker Tour" tvg-logo="https://image.xumo.com/v1/channels/channel/99991317/80x80.webp?type=color_onBlack" group-title="Sports",World Poker Tour
+https://dbrb49pjoymg4.cloudfront.net/10001/99991317/hls/playlist.m3u8?ads.xumo_channelId=99991317
+#EXTINF:-1  tvg-name="World Surf League" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Sports",World Surf League
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991249
+#EXTINF:-1  tvg-name="Afroland TV" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Movies",Afroland TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951214/hls/a.m3u8?version=12&id=816&partner=xumo&ads.xumo_channelId=99951214
+#EXTINF:-1  tvg-name="Gravitas Movies" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Movies",Gravitas Movies
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991312
+#EXTINF:-1  tvg-name="Wu Tang Collection TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991745/80x80.webp?type=color_onBlack" group-title="Movies",Wu Tang Collection TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991745
+#EXTINF:-1  tvg-name="Documentary+" tvg-logo="https://image.xumo.com/v1/channels/channel/99991638/80x80.webp?type=color_onBlack" group-title="Movies",Documentary+
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
+#EXTINF:-1  tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/80x80.webp?type=color_onBlack" group-title="Movies",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1  tvg-name="Maverick Black Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99991336/80x80.webp?type=color_onBlack" group-title="Movies",Maverick Black Cinema
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991336
+#EXTINF:-1  tvg-name="Degrassi" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Action & Drama",Degrassi
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991634
+#EXTINF:-1  tvg-name="ION Plus" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/80x80.webp?type=color_onBlack" group-title="Action & Drama",ION Plus
+https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+#EXTINF:-1  tvg-name="Stories by AMC" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/100x100.webp?type=color_onBlack" group-title="Action & Drama",Stories by AMC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622
+#EXTINF:-1  tvg-name="The Asylum" tvg-logo="https://image.xumo.com/v1/channels/channel/99991331/80x80.webp?type=color_onBlack" group-title="Horror & Sci-Fi",The Asylum
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991331
+#EXTINF:-1  tvg-name="Dark Matter TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999615/80x80.webp?type=color_onBlack" group-title="Horror & Sci-Fi",Dark Matter TV
+https://dbrb49pjoymg4.cloudfront.net/10001/9999615/hls/master.m3u8?ads.xumo_channelId=9999615
+#EXTINF:-1  tvg-name="Paranormal Files" tvg-logo="https://image.xumo.com/v1/channels/channel/99991769/80x80.webp?type=color_onBlack" group-title="Horror & Sci-Fi",Paranormal Files
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991769
+#EXTINF:-1  tvg-name="Universal Monsters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/80x80.webp?type=color_onBlack" group-title="Horror & Sci-Fi",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
+#EXTINF:-1  tvg-name="The Walking Dead Universe" tvg-logo="https://image.xumo.com/v1/channels/channel/99991623/80x80.webp?type=color_onBlack" group-title="Horror & Sci-Fi",The Walking Dead Universe
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991623/hls/playlist.m3u8?ads.xumo_channelId=99991623
+#EXTINF:-1  tvg-name="Deal or No Deal" tvg-logo="https://image.xumo.com/v1/channels/channel/99991113/80x80.webp?type=color_onBlack" group-title="Game Shows",Deal or No Deal
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991113
+#EXTINF:-1  tvg-name="Family Feud" tvg-logo="https://image.xumo.com/v1/channels/channel/99991232/80x80.webp?type=color_onBlack" group-title="Game Shows",Family Feud
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991232
+#EXTINF:-1  tvg-name="Fear Factor" tvg-logo="https://image.xumo.com/v1/channels/channel/99951130/80x80.webp?type=color_onBlack" group-title="Game Shows",Fear Factor
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951130
+#EXTINF:-1  tvg-name="Game Show Central" tvg-logo="https://image.xumo.com/v1/channels/channel/99951336/80x80.webp?type=color_onBlack" group-title="Game Shows",Game Show Central
+https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750
+#EXTINF:-1  tvg-name="Gameshow A Go-Go" tvg-logo="https://image.xumo.com/v1/channels/channel/99991659/80x80.webp?type=color_onBlack" group-title="Game Shows",Gameshow A Go-Go
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991659
+#EXTINF:-1  tvg-name="Wipeout Xtra" tvg-logo="https://image.xumo.com/v1/channels/channel/99951129/80x80.webp?type=color_onBlack" group-title="Game Shows",Wipeout Xtra
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951129
+#EXTINF:-1  tvg-name="All Weddings WE tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99991625/80x80.webp?type=color_onBlack" group-title="Reality TV",All Weddings WE tv
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991625/hls/playlist.m3u8?ads.xumo_channelId=99991625
+#EXTINF:-1  tvg-name="Divorce Court" tvg-logo="https://image.xumo.com/v1/channels/channel/99991346/80x80.webp?type=color_onBlack" group-title="Reality TV",Divorce Court
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991346
+#EXTINF:-1  tvg-name="Hell's Kitchen" tvg-logo="https://image.xumo.com/v1/channels/channel/99991681/80x80.webp?type=color_onBlack" group-title="Reality TV",Hell's Kitchen
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991681
+#EXTINF:-1  tvg-name="Judge Nosey" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Reality TV",Judge Nosey
+https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_channelId=99991388
+#EXTINF:-1  tvg-name="Love Quest powered by Banijay" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Reality TV",Love Quest powered by Banijay
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951137
+#EXTINF:-1  tvg-name="Nosey" tvg-logo="https://image.xumo.com/v1/channels/channel/99991366/80x80.webp?type=color_onBlack" group-title="Reality TV",Nosey
+https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
+#EXTINF:-1  tvg-name="Xumo Reality TV" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Reality TV",Xumo Reality TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991364
+#EXTINF:-1  tvg-name="Antiques Roadshow UK" tvg-logo="https://image.xumo.com/v1/channels/channel/99991783/80x80.webp?type=color_onBlack" group-title="Travel & Lifestyle",Antiques Roadshow UK
+https://d2irko5f9gt1c5.cloudfront.net/10008/99991783/hls/playlist.m3u8?ads.xumo_channelId=99991783
+#EXTINF:-1  tvg-name="Escapes" tvg-logo="https://image.xumo.com/v1/channels/channel/99991280/80x80.webp?type=color_onBlack" group-title="Travel & Lifestyle",Escapes
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991280
+#EXTINF:-1  tvg-name="Great American Adventures" tvg-logo="https://image.xumo.com/v1/channels/channel/99951135/80x80.webp?type=color_onBlack" group-title="Travel & Lifestyle",Great American Adventures
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951135
+#EXTINF:-1  tvg-name="HSN" tvg-logo="https://image.xumo.com/v1/channels/channel/99991271/80x80.webp?type=color_onBlack" group-title="Travel & Lifestyle",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
+#EXTINF:-1  tvg-name="Journy" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Travel & Lifestyle",Journy
+https://dbrb49pjoymg4.cloudfront.net/10001/99991262/hls/playlist.m3u8?ads.xumo_channelId=99991262
+#EXTINF:-1  tvg-name="QVC" tvg-logo="https://image.xumo.com/v1/channels/channel/99991344/80x80.webp?type=color_onBlack" group-title="Travel & Lifestyle",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+#EXTINF:-1  tvg-name="ShopLC" tvg-logo="https://image.xumo.com/v1/channels/channel/99991370/80x80.webp?type=color_onBlack" group-title="Travel & Lifestyle",ShopLC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+#EXTINF:-1  tvg-name="Xumo Travel & Lifestyle TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991111/80x80.webp?type=color_onBlack" group-title="Travel & Lifestyle",Xumo Travel & Lifestyle TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991111
+#EXTINF:-1  tvg-name="Bon Appetit" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Food",Bon Appetit
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991140
+#EXTINF:-1  tvg-name="Food 52" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Food",Food 52
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
+#EXTINF:-1  tvg-name="Lidia's Kitchen" tvg-logo="https://image.xumo.com/v1/channels/channel/99951151/80x80.webp?type=color_onBlack" group-title="Food",Lidia's Kitchen
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951151
+#EXTINF:-1  tvg-name="Tastemade" tvg-logo="https://image.xumo.com/v1/channels/channel/99991202/80x80.webp?type=color_onBlack" group-title="Food",Tastemade
+https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+#EXTINF:-1  tvg-name="Xumo Food TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9995117/80x80.webp?type=color_onBlack" group-title="Food",Xumo Food TV
+https://dbrb49pjoymg4.cloudfront.net/10001/9995117/hls/master.m3u8?ads.xumo_channelId=9995117
+#EXTINF:-1  tvg-name="Dateline 24x7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991626/80x80.webp?type=color_onBlack" group-title="Crime TV",Dateline 24x7
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_channelId=99991626
+#EXTINF:-1  tvg-name="Forensic Files" tvg-logo="https://image.xumo.com/v1/channels/channel/99991367/80x80.webp?type=color_onBlack" group-title="Crime TV",Forensic Files
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991367
+#EXTINF:-1  tvg-name="Law & Crime" tvg-logo="https://image.xumo.com/v1/channels/channel/99991320/80x80.webp?type=color_onBlack" group-title="Crime TV",Law & Crime
+https://dbrb49pjoymg4.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_channelId=99991320
+#EXTINF:-1  tvg-name="Midsomer Murders" tvg-logo="https://image.xumo.com/v1/channels/channel/99991698/80x80.webp?type=color_onBlack" group-title="Crime TV",Midsomer Murders
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991698
+#EXTINF:-1  tvg-name="Real Crime" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Crime TV",Real Crime
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991357
+#EXTINF:-1  tvg-name="Reelz Famous & Infamous" tvg-logo="https://image.xumo.com/v1/channels/channel/99991368/80x80.webp?type=color_onBlack" group-title="Crime TV",Reelz Famous & Infamous
+https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
+#EXTINF:-1  tvg-name="Unsolved Mysteries" tvg-logo="https://image.xumo.com/v1/channels/channel/99991680/80x80.webp?type=color_onBlack" group-title="Crime TV",Unsolved Mysteries
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991680
+#EXTINF:-1  tvg-name="Xumo Crime TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991384/80x80.webp?type=color_onBlack" group-title="Crime TV",Xumo Crime TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991384
+#EXTINF:-1  tvg-name="American Classics" tvg-logo="https://image.xumo.com/v1/channels/channel/99991354/80x80.webp?type=color_onBlack" group-title="Classic TV",American Classics
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991354
+#EXTINF:-1  tvg-name="The Archive" tvg-logo="https://image.xumo.com/v1/channels/channel/99991310/80x80.webp?type=color_onBlack" group-title="Classic TV",The Archive
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991310
+#EXTINF:-1  tvg-name="Family Affair Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/80x80.webp?type=color_onBlack" group-title="Classic TV",Family Affair Channel
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951146
+#EXTINF:-1  tvg-name="RiffTrax" tvg-logo="https://image.xumo.com/v1/channels/channel/99991106/80x80.webp?type=color_onBlack" group-title="Classic TV",RiffTrax
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991106
+#EXTINF:-1  tvg-name="Combat War Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991379/80x80.webp?type=color_onBlack" group-title="History & Learning",Combat War Channel
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991379
+#EXTINF:-1  tvg-name="MagellanTV Now" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="History & Learning",MagellanTV Now
+https://dbrb49pjoymg4.cloudfront.net/10001/99991382/hls/playlist.m3u8?ads.xumo_channelId=99991382
+#EXTINF:-1  tvg-name="PBS Digital Studios" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="History & Learning",PBS Digital Studios
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991160
+#EXTINF:-1  tvg-name="True History" tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/80x80.webp?type=color_onBlack" group-title="History & Learning",True History
+https://dbrb49pjoymg4.cloudfront.net/10001/99991650/hls/playlist.m3u8?ads.xumo_channelId=99991650
+#EXTINF:-1  tvg-name="Wired" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="History & Learning",Wired
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991135
+#EXTINF:-1  tvg-name="GQ" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Pop Culture",GQ
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991137
+#EXTINF:-1  tvg-name="TheGrio" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Pop Culture",TheGrio
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
+#EXTINF:-1  tvg-name="Vogue" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Pop Culture",Vogue
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
+#EXTINF:-1  tvg-name="The Pet Collective" tvg-logo="https://image.xumo.com/v1/channels/channel/99991174/80x80.webp?type=color_onBlack" group-title="Comedy",The Pet Collective
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991174
+#EXTINF:-1  tvg-name="Anger Management Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951192/80x80.webp?type=color_onBlack" group-title="Comedy",Anger Management Channel
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951192
+#EXTINF:-1  tvg-name="Are We There Yet? Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991667/80x80.webp?type=color_onBlack" group-title="Comedy",Are We There Yet? Channel
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991667
+#EXTINF:-1  tvg-name="Bounce XL" tvg-logo="https://image.xumo.com/v1/channels/channel/9999613/80x80.webp?type=color_onBlack" group-title="Comedy",Bounce XL
+https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613
+#EXTINF:-1  tvg-name="Dry Bar Comedy" tvg-logo="https://image.xumo.com/v1/channels/channel/99991124/80x80.webp?type=color_onBlack" group-title="Comedy",Dry Bar Comedy
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991124
+#EXTINF:-1  tvg-name="FailArmy" tvg-logo="https://image.xumo.com/v1/channels/channel/99991153/80x80.webp?type=color_onBlack" group-title="Comedy",FailArmy
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991153
+#EXTINF:-1  tvg-name="Funny or Die" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Comedy",Funny or Die
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991187
+#EXTINF:-1  tvg-name="It's Showtime at the Apollo" tvg-logo="https://image.xumo.com/v1/channels/channel/99991349/80x80.webp?type=color_onBlack" group-title="Comedy",It's Showtime at the Apollo
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991349
+#EXTINF:-1  tvg-name="The Johnny Carson Show" tvg-logo="https://image.xumo.com/v1/channels/channel/99991157/80x80.webp?type=color_onBlack" group-title="Comedy",The Johnny Carson Show
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991157
+#EXTINF:-1  tvg-name="Just for Laughs Gags" tvg-logo="https://image.xumo.com/v1/channels/channel/99991204/80x80.webp?type=color_onBlack" group-title="Comedy",Just for Laughs Gags
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991204
+#EXTINF:-1  tvg-name="Just for Laughs TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991176/80x80.webp?type=color_onBlack" group-title="Comedy",Just for Laughs TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991176
+#EXTINF:-1  tvg-name="LOL Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99991123/80x80.webp?type=color_onBlack" group-title="Comedy",LOL Network
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991123
+#EXTINF:-1  tvg-name="Xumo Comedy TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991105/80x80.webp?type=color_onBlack" group-title="Comedy",Xumo Comedy TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991105
+#EXTINF:-1  tvg-name="Boxing TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/80x80.webp?type=color_onBlack" group-title="Combat Sports",Boxing TV
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154
+#EXTINF:-1  tvg-name="Fight Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99951132/80x80.webp?type=color_onBlack" group-title="Combat Sports",Fight Network
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951132
+#EXTINF:-1  tvg-name="Impact Wrestling Channel" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Combat Sports",Impact Wrestling Channel
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991341
+#EXTINF:-1  tvg-name="Swerve Combat" tvg-logo="https://image.xumo.com/v1/channels/channel/99991696/80x80.webp?type=color_onBlack" group-title="Combat Sports",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1  tvg-name="Demand Africa" tvg-logo="https://image.xumo.com/v1/channels/channel/99991381/80x80.webp?type=color_onBlack" group-title="International",Demand Africa
+https://demandafrica-xumo-us.amagi.tv/hls/amagi_hls_data_theafrica-demandafricaxumo/CDN/master.m3u8
+#EXTINF:-1  tvg-name="NatureVision" tvg-logo="https://image.xumo.com/v1/channels/channel/99991197/80x80.webp?type=color_onBlack" group-title="Nature & Wildlife",NatureVision
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
+#EXTINF:-1  tvg-name="Wild Earth" tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/80x80.webp?type=color_onBlack" group-title="Nature & Wildlife",Wild Earth
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991628
+#EXTINF:-1  tvg-name="Xumo Nature & Wildlife TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951218/80x80.webp?type=color_onBlack" group-title="Nature & Wildlife",Xumo Nature & Wildlife TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
+#EXTINF:-1  tvg-name="All Babies Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991253/80x80.webp?type=color_onBlack" group-title="Kids",All Babies Channel
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991253
+#EXTINF:-1  tvg-name="Baby Shark TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951209/80x80.webp?type=color_onBlack" group-title="Kids",Baby Shark TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951209
+#EXTINF:-1  tvg-name="Barney and Friends" tvg-logo="https://image.xumo.com/v1/channels/channel/99951300/80x80.webp?type=color_onBlack" group-title="Kids",Barney and Friends
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951148
+#EXTINF:-1  tvg-name="BatteryPop" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Kids",BatteryPop
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991273
+#EXTINF:-1  tvg-name="Kartoon Channel!" tvg-logo="https://image.xumo.com/v1/channels/channel/99991327/80x80.webp?type=color_onBlack" group-title="Kids",Kartoon Channel!
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991327
+#EXTINF:-1  tvg-name="Little Baby Bum and Friends" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Kids",Little Baby Bum and Friends
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991671
+#EXTINF:-1  tvg-name="Sensical Jr" tvg-logo="https://image.xumo.com/v1/channels/channel/99951280/80x80.webp?type=color_onBlack" group-title="Kids",Sensical Jr
+https://dbrb49pjoymg4.cloudfront.net/10001/99951280/hls/playlist.m3u8?ads.xumo_channelId=99951280
+#EXTINF:-1  tvg-name="Sensical Makers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951281/80x80.webp?type=color_onBlack" group-title="Kids",Sensical Makers
+https://dbrb49pjoymg4.cloudfront.net/10001/99951281/hls/playlist.m3u8?ads.xumo_channelId=99951281
+#EXTINF:-1  tvg-name="Teletubbies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991761/80x80.webp?type=color_onBlack" group-title="Kids",Teletubbies
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991761
+#EXTINF:-1  tvg-name="Xumo Kids TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991107/80x80.webp?type=color_onBlack" group-title="Kids",Xumo Kids TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
+#EXTINF:-1  tvg-name="BibleStream" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Faith & Family",BibleStream
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951189
+#EXTINF:-1  tvg-name="EncourageTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991772/80x80.webp?type=color_onBlack" group-title="Faith & Family",EncourageTV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991772
+#EXTINF:-1  tvg-name="Trinity Broadcast Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99991708/80x80.webp?type=color_onBlack" group-title="Faith & Family",Trinity Broadcast Network
+https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/tbn-xumo.m3u8?ads.xumo_channelId=99991708
+#EXTINF:-1  tvg-name="iHeart Alternative Radio" tvg-logo="https://image.xumo.com/v1/channels/channel/9995101/80x80.webp?type=color_onBlack" group-title="Music & Radio",iHeart Alternative Radio
+https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_channelId=9995101
+#EXTINF:-1  tvg-name="iHeart90s" tvg-logo="https://image.xumo.com/v1/channels/channel/9995100/80x80.webp?type=color_onBlack" group-title="Music & Radio",iHeart90s
+https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_channelId=9995100
+#EXTINF:-1  tvg-name="iHeartCountry" tvg-logo="https://image.xumo.com/v1/channels/channel/9995102/80x80.webp?type=color_onBlack" group-title="Music & Radio",iHeartCountry
+https://dbrb49pjoymg4.cloudfront.net/10001/9995102/hls/playlist.m3u8?ads.xumo_channelId=9995102
+#EXTINF:-1  tvg-name="iHeartRadio Hip Hop Beats" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/80x80.webp?type=color_onBlack" group-title="Music & Radio",iHeartRadio Hip Hop Beats
+https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/playlist.m3u8?ads.xumo_channelId=9995103
+#EXTINF:-1  tvg-name="Stingray Classic Rock" tvg-logo="https://image.xumo.com/v1/channels/channel/99991119/80x80.webp?type=color_onBlack" group-title="Music & Radio",Stingray Classic Rock
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991119
+#EXTINF:-1  tvg-name="Stingray Greatest Hits" tvg-logo="https://image.xumo.com/v1/channels/channel/99991120/80x80.webp?type=color_onBlack" group-title="Music & Radio",Stingray Greatest Hits
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
+#EXTINF:-1  tvg-name="Stingray Hit List" tvg-logo="https://image.xumo.com/v1/channels/channel/99991117/80x80.webp?type=color_onBlack" group-title="Music & Radio",Stingray Hit List
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
+#EXTINF:-1  tvg-name="Stingray Hot Country" tvg-logo="https://image.xumo.com/v1/channels/channel/99991118/80x80.webp?type=color_onBlack" group-title="Music & Radio",Stingray Hot Country
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
+#EXTINF:-1  tvg-name="Stingray Remember the 80s" tvg-logo="https://image.xumo.com/v1/channels/channel/99991742/80x80.webp?type=color_onBlack" group-title="Music & Radio",Stingray Remember the 80s
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
+#EXTINF:-1  tvg-name="Stingray Soul Storm" tvg-logo="https://image.xumo.com/v1/channels/channel/99991121/80x80.webp?type=color_onBlack" group-title="Music & Radio",Stingray Soul Storm
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991121
+#EXTINF:-1  tvg-name="Localish" tvg-logo="https://image.xumo.com/v1/channels/channel/99951149/80x80.webp?type=color_onBlack" group-title="Local News",Localish
+https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=localish_live&ad.vast3=1&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.networkID=21783347309&ad.adUnit=/localish/xumo/desktopweb&ad.ppid=e39b04d7-0988-75f8-4db1-608934b52962&ad.correlator=1702623758189&ad.scor=1702623758189&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=e39b04d7-0988-75f8-4db1-608934b52962&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=1YNN&ad.cust_params=vdm%3Dlive%26chan%3Dlocalish%26plt%3Dctv%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%26vps%3D640x480%26ppid%3De
+#EXTINF:-1  tvg-name="Heartland" tvg-logo="https://image.xumo.com/v1/channels/channel/9995114/80x80.webp?type=color_onBlack" group-title="Westerns & Country",Heartland
+https://dbrb49pjoymg4.cloudfront.net/10001/9995114/hls/master.m3u8?ads.xumo_channelId=9995114
+#EXTINF:-1  tvg-name="McLeod's Daughters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951138/80x80.webp?type=color_onBlack" group-title="Westerns & Country",McLeod's Daughters
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951138
+#EXTINF:-1  tvg-name="The Rifleman" tvg-logo="https://image.xumo.com/v1/channels/channel/99951216/80x80.webp?type=color_onBlack" group-title="Westerns & Country",The Rifleman
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951216
+#EXTINF:-1  tvg-name="Universal Westerns" tvg-logo="https://image.xumo.com/v1/channels/channel/99951255/80x80.webp?type=color_onBlack" group-title="Westerns & Country",Universal Westerns
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951255/hls/master.m3u8?ads.xumo_channelId=99951255
+#EXTINF:-1  tvg-name="Western Bound" tvg-logo="https://image.xumo.com/v1/channels/channel/99951160/80x80.webp?type=color_onBlack" group-title="Westerns & Country",Western Bound
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951160
+#EXTINF:-1  tvg-name="Xumo Westerns" tvg-logo="https://image.xumo.com/v1/channels/channel/99991397/80x80.webp?type=color_onBlack" group-title="Westerns & Country",Xumo Westerns
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991397
+#EXTINF:-1  tvg-name="Architectural Digest" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" group-title="Home & Design",Architectural Digest
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991229
+#EXTINF:-1  tvg-name="The Design Network" tvg-logo="https://image.xumo.com/v1/channels/channel/99991390/80x80.webp?type=color_onBlack" group-title="Home & Design",The Design Network
+https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_channelId=99991390
+#EXTINF:-1  tvg-name="NBC LX Home" tvg-logo="https://image.xumo.com/v1/channels/channel/99991651/80x80.webp?type=color_onBlack" group-title="Home & Design",NBC LX Home
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
+#EXTINF:-1  tvg-name="This Old House" tvg-logo="https://image.xumo.com/v1/channels/channel/99991293/80x80.webp?type=color_onBlack" group-title="Home & Design",This Old House
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991293
+#EXTINF:-1  tvg-name="Today's Homeowner" tvg-logo="https://image.xumo.com/v1/channels/channel/99991759/80x80.webp?type=color_onBlack" group-title="Home & Design",Today's Homeowner
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991759
+#EXTINF:-1  tvg-name="Fifth Gear" tvg-logo="https://image.xumo.com/v1/channels/channel/99951207/80x80.webp?type=color_onBlack" group-title="Automotive",Fifth Gear
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951207
+#EXTINF:-1  tvg-name="MavTV Select" tvg-logo="https://image.xumo.com/v1/channels/channel/99951269/80x80.webp?type=color_onBlack" group-title="Automotive",MavTV Select
+https://dbrb49pjoymg4.cloudfront.net/10001/99951269/hls/playlist.m3u8?ads.xumo_channelId=99951269
+#EXTINF:-1  tvg-name="PowerNation" tvg-logo="https://image.xumo.com/v1/channels/channel/99991291/80x80.webp?type=color_onBlack" group-title="Automotive",PowerNation
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991291
+#EXTINF:-1  tvg-name="Speedvision" tvg-logo="https://image.xumo.com/v1/channels/channel/99951268/80x80.webp?type=color_onBlack" group-title="Automotive",Speedvision
+https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
+#EXTINF:-1  tvg-name="Alice Movies" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,Alice Movies
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991300
+#EXTINF:-1  tvg-name="The Bob Ross Channel" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,The Bob Ross Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991122/hls/index.m3u8?ads.xumo_channelId=99991122
+#EXTINF:-1  tvg-name="ESR" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,ESR
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991356
+#EXTINF:-1  tvg-name="The Girls Next Door Channel" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,The Girls Next Door Channel
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951145
+#EXTINF:-1  tvg-name="GlewedTV: Sci-Fi" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,GlewedTV: Sci-Fi
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951123
+#EXTINF:-1  tvg-name="Hi-Yah!" tvg-logo="https://image.xumo.com/v1/channels/channel/99991302/80x80.webp?type=color_onBlack" ,Hi-Yah!
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302
+#EXTINF:-1  tvg-name="History Shorts" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,History Shorts
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991290
+#EXTINF:-1  tvg-name="People Are Awesome" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,People Are Awesome
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991175
+#EXTINF:-1  tvg-name="Snowy River" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,Snowy River
+https://dbrb49pjoymg4.cloudfront.net/10001/9995105/hls/master.m3u8?ads.xumo_channelId=9995105
+#EXTINF:-1  tvg-name="Stadium" tvg-logo="https://i.postimg.cc/76g2g8dM/Xumo-Play.png" ,Stadium
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991319
