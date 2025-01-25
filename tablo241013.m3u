@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AMC Thrillers" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/6e7af423114c9f735d17e142783f233a-300x225.png" group-title="Entertainment and Lifestyle channels", AMC Thrillers
+https://amc-rushbyamc-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="All Reality by We TV" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/Tablo_AR_Rebrand_ChannelLogo_Horiz_5570x1500_Color-300x81.png" group-title="Entertainment and Lifestyle channels", All Reality by We TV
+https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="All Weddings by We TV" tvg-logo="https://i.postimg.cc/vTpgkjGP/Tablo-TV.png" group-title="Entertainment and Lifestyle channels", All Weddings by We TV
+https://amc-allweddings-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Allblk Gems" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/images-2-300x141.jpeg" group-title="Entertainment and Lifestyle channels", Allblk Gems
+https://amc-allblk-gems-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bounce XL" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/header-logo-300x98.webp" group-title="Entertainment and Lifestyle channels", Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Circle Country" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/Circle_Network_logo.svg-300x174.png" group-title="Entertainment and Lifestyle channels", Circle Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00432-circletv-circletv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/ComedyDynamics_modifiedpng-300x72.png" group-title="Entertainment and Lifestyle channels", Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Grit Xtra" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/yello-grit-logo-300x129.webp" group-title="Entertainment and Lifestyle channels", Grit Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Gusto TV" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/gustotv-logo-300x72.png" group-title="Entertainment and Lifestyle channels", Gusto TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Anime x Hidive" tvg-logo="https://i.postimg.cc/Kvfh9TQT/Anime-x-Hidive.png" group-title="Entertainment and Lifestyle channels", Anime x Hidive
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Homeful" tvg-logo="https://i.postimg.cc/FHK5wKnB/Homeful.png" group-title="Entertainment and Lifestyle channels", Homeful
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="IFC Film Picks" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/IFCFilmsPicks_modified-Bill-Watts-1-300x150.png" group-title="Entertainment and Lifestyle channels",IFC Film Picks
+https://amc-ifc-films-picks-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ION" tvg-logo="https://cdn.titantv.com/bnQtU8FLPX4uGyrko3piRZrQQ3bkBDlF_RMfSBuEBUo.png" group-title="Entertainment and Lifestyle channels", ION
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Plus" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/1200px-ION_Plus_logo.svg-300x236.png" group-title="Entertainment and Lifestyle channels", ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Mystery" tvg-logo="https://i.postimg.cc/nhwbxtyc/ION-Mystery.png" group-title="Entertainment and Lifestyle channels", ION Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Judge Nosey" tvg-logo="https://i.postimg.cc/7hNdWv14/Judge-Nosey.png" group-title="Entertainment and Lifestyle channels", Judge Nosey
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-realnosey-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Laff More" tvg-logo="https://i.postimg.cc/k56rXpCN/Laff-More.png" group-title="Entertainment and Lifestyle channels", Laff More
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/love-nature_transparent-300x200.png" group-title="Entertainment and Lifestyle channels", Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Nosey" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/66701457-2ca4-4f5b-a02a-7117e8e9714d-300x77.png" group-title="Entertainment and Lifestyle channels", Nosey
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-nosey-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Portlandia IFC" tvg-logo="https://i.postimg.cc/HLfqJ9Wq/Portlandia-IFC.png" group-title="Entertainment and Lifestyle channels", Portlandia IFC
+https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RetroCrush" tvg-logo="https://i.postimg.cc/zDpx6kZq/Retro-Crush.png" group-title="Entertainment and Lifestyle channels", RetroCrush
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Slightly Off IFC" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/600x337-300x169.webp" group-title="Entertainment and Lifestyle channels",Slightly Off IFC
+https://amc-slightly-off-by-amc-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="So... Real" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/SoReal_modified-300x64.png" group-title="Entertainment and Lifestyle channels", So... Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-tablo/playlist.m3u8 
+#EXTINF:-1 tvg-name="Tastemade" tvg-logo="https://i.postimg.cc/50LZ8Q66/Tastemade.png" group-title="Entertainment and Lifestyle channels", Tastemade Food & More
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade Home" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/TASTEMADEHOMEofficial-300x83.png" group-title="Entertainment and Lifestyle channels", Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade Travel" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/TASTEMADETRAVELofficial-300x83.png" group-title="Entertainment and Lifestyle channels", Tastemade Travel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="The Design Network" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/TheDesignNetworkLogo_pink-300x99.png" group-title="Entertainment and Lifestyle channels", The Design Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Total Crime" tvg-logo="https://i.postimg.cc/7P1F6zFR/Total-Crime.png" group-title="Entertainment and Lifestyle channels",Total Crime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="The Walking Dead Universe" tvg-logo="https://i.postimg.cc/tJb8kRxD/The-Walking-Dead-Universe.png" group-title="Entertainment and Lifestyle channels", The Walking Dead Universe
+https://amc-twdfanexperience-1-us.tablo.wurl.tv/playlist.m3u8 
+#EXTINF:-1 tvg-name="DraftKings Network" tvg-logo="https://i.postimg.cc/J06VhVsq/Draft-Kings.png" group-title="Sports channels", DraftKings Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00697-draftkings-draftkings-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="MSG Sportszone" tvg-logo="https://i.postimg.cc/wTMYGvrb/MSG-Sports-Zone.png" group-title="Sports channels", MSG SportsZone
+https://37ed58e7.wurl.com/v1/amc_msgsportszone_1/tablo_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Outside TV" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/logo-outside-300x77.png" group-title="Sports channels", Outside TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00354-outsidetv-outsidetv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="PAC12 Insider" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/Pac-12_Insider_official-300x300.png" group-title="Sports channels", PAC12 Insider
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00384-pac12network-pac12-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://i.postimg.cc/HLDGntkf/WPT.png" group-title="Sports channels", World Poker Tour
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.postimg.cc/gJKbf6d1/Bloomberg-TV.png" group-title="News channels",Bloomberg TV+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergtv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://i.postimg.cc/SKChfvPS/Bloomberg-Originals.png" group-title="News channels", Bloomberg Originals
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergoriginals-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Court TV" tvg-logo="https://i.postimg.cc/Kzbyq5Xn/Court-TV.png" group-title="News channels", Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Court TV: Legendary Trials" tvg-logo="https://i.postimg.cc/yxYCBY8x/Court-TV-Legendary-Trials.png" group-title="News channels", Court TV: Legendary Trials
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttvlegenderytrials-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.postimg.cc/5NrWdJd9/Scripps-News.png" group-title="News channels", Scripps News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-scrippsnews-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="MyTime Movie Network" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/MyTime.png" group-title="Movie channels", MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovienetwork-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Dove Channel" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/DoveChannel_original-300x168.png" group-title="Family and Kid channels", Dove Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dove-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="The Big Dish Channel" tvg-logo="https://i.postimg.cc/vTpgkjGP/Tablo-TV.png" group-title="Additional TV broadcast networks", QVC's The Big Dish Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01717-qvcinc-thebigdish-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="History Time" tvg-logo="https://i.postimg.cc/vTpgkjGP/Tablo-TV.png" group-title="Additional TV broadcast networks", Declassified
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Stories by AMC" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/AMCN-StoriesbyAMC_Tablo_logo-official_Wx1500_v01-Bill-Watts-300x65.png" group-title="Additional TV broadcast networks", Stories by AMC
+https://amc-amcpresents-1-us.tablo.wurl.tv/playlist.m3u8
