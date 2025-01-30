@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AccuWeather Now" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/accuweather/AW-Now-Redbox-MonoLogo.png" group-title="News & Weather",AccuWeather Now
+https://accuweather-redbox.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-redbox/CDN/playlist.m3u8?p=redbox
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Originals" tvg-logo="https://image.xumo.com/v1/channels/channel/9999927/300x300.png?type=color_onBlack" group-title="News & Weather",Bloomberg Originals
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News" tvg-logo="https://image.xumo.com/v1/channels/channel/9999961/300x300.png?type=color_onBlack" group-title="News & Weather",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheddar" tvg-logo="https://image.xumo.com/v1/channels/channel/9999945/300x300.png?type=color_onBlack_cropped" group-title="News & Weather",Cheddar
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NowThis" tvg-logo="https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack" group-title="News & Weather",NowThis
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pattrn" tvg-logo="https://image.xumo.com/v1/channels/channel/88883604/300x300.png?type=color_onBlack" group-title="News & Weather",Pattrn
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpattrn/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scripps News" tvg-logo="https://image.xumo.com/v1/channels/channel/9999986/300x300.png?type=color_onBlack" group-title="News & Weather",Scripps News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Today" tvg-logo="https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack" group-title="News & Weather",USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wired" tvg-logo="https://image.xumo.com/v1/channels/channel/9999946/300x300.png?type=color_onBlack" group-title="News & Weather",Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACL Cornhole" tvg-logo="https://image.xumo.com/v1/channels/channel/88883598/300x300.png?type=color_onBlack" group-title="Sports & Gaming",ACL Cornhole
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaclcornhole/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Xtra" tvg-logo="https://image.xumo.com/v1/channels/channel/9999956/300x300.png?type=color_onBlack" group-title="Sports & Gaming",beIN Sports Xtra
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BilliardTV" tvg-logo="https://image.xumo.com/v1/channels/channel/88883597/300x300.png?type=color_onBlack" group-title="Sports & Gaming",BilliardTV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbilliardtv/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network" tvg-logo="https://image.xumo.com/v1/channels/channel/9991013/300x300.png?type=color_onBlack" group-title="Sports & Gaming",Fight Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfightnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glory Kickboxing" tvg-logo="https://image.xumo.com/v1/channels/channel/9999957/300x300.png?type=color_onBlack" group-title="Sports & Gaming",Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hard Knocks Fighting Championship" tvg-logo="https://image.xumo.com/v1/channels/channel/9999958/300x300.png?type=color_onBlack" group-title="Sports & Gaming",Hard Knocks Fighting Championship
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Impact! Wrestling Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/9991011/300x300.png?type=color_onBlack" group-title="Sports & Gaming",Impact! Wrestling Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxanthemsportsimpactwrestling/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nitro Circus TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999938/300x300.png?type=color_onBlack" group-title="Sports & Gaming",Nitro Circus TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor America" tvg-logo="https://image.xumo.com/v1/channels/channel/9999962/300x300.png?type=color_onBlack" group-title="Sports & Gaming",Outdoor America
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outside TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999933/300x300.png?type=color_onBlack" group-title="Sports & Gaming",Outside TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unbeaten" tvg-logo="https://i.postimg.cc/HsKHNt3R/Unbeaten.png" group-title="Sports & Gaming",Unbeaten
+https://inverleigh-unbeaten-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-inverleigh-unbeaten-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Poker Tour" tvg-logo="https://image.xumo.com/v1/channels/channel/9999923/300x300.png?type=color_onBlack" group-title="Sports & Gaming",World Poker Tour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alter" tvg-logo="https://i.postimg.cc/J0Fw913Z/Alter.png" group-title="Action Sci-Fi & Horror",Alter
+https://amg00219-gunpowder-alter-redbox.amagi.tv/hls/amagi_hls_data_gunpowder-alter-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Electric Now" tvg-logo="https://i.postimg.cc/prKSfYK4/Electric-Now.png" group-title="Action Sci-Fi & Horror",Electric Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxelectricnow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Sci-Fi" tvg-logo="https://image.xumo.com/v1/channels/channel/9999925/300x300.png?type=color_onBlack" group-title="Action Sci-Fi & Horror",FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hi-Yah!" tvg-logo="https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack" group-title="Action Sci-Fi & Horror",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paranormal Files" tvg-logo="https://image.xumo.com/v1/channels/channel/88883601/300x300.png?type=color_onBlack" group-title="Action Sci-Fi & Horror",Paranormal Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxparanormalfiles/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wu Tang Collection TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9991014/300x300.png?type=color_onBlack" group-title="Action Sci-Fi & Horror",Wu Tang Collection TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgoldenmediawutangcollection/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Classics" tvg-logo="https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack" group-title="Classics & Nostalgia",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Archive" tvg-logo="https://image.xumo.com/v1/channels/channel/9999936/300x300.png?type=color_onBlack" group-title="Classics & Nostalgia",The Archive
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8??p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Bob Ross Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/9999964/300x300.png?type=color_onBlack" group-title="Classics & Nostalgia",The Bob Ross Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Classic TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999924/300x300.png?type=color_onBlack" group-title="Classics & Nostalgia",FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="It's Showtime At The Apollo" tvg-logo="https://image.xumo.com/v1/channels/channel/9999985/300x300.png?type=color_onBlack" group-title="Classics & Nostalgia",It's Showtime At The Apollo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="America's Test Kitchen" tvg-logo="https://image.xumo.com/v1/channels/channel/9999930/300x300.png?type=color_onBlack" group-title="Food & Home",America's Test Kitchen
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Architectural Digest" tvg-logo="https://image.xumo.com/v1/channels/channel/9999953/300x300.png?type=color_onBlack" group-title="Food & Home",Architectural Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bon Appetit" tvg-logo="https://image.xumo.com/v1/channels/channel/9999963/300x300.png?type=color_onBlack" group-title="Food & Home",Bon Appetit
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Design Network" tvg-logo="https://image.xumo.com/v1/channels/channel/9999949/300x300.png?type=color_onBlack" group-title="Food & Home",The Design Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food52" tvg-logo="https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped" group-title="Food & Home",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungry" tvg-logo="https://image.xumo.com/v1/channels/channel/9999954/300x300.png?type=color_onBlack" group-title="Food & Home",Hungry
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXS TV Now" tvg-logo="https://image.xumo.com/v1/channels/channel/9991012/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",AXS TV Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaxstv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Backstage" tvg-logo="https://image.xumo.com/v1/channels/channel/9999939/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",Backstage
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Circle Country" tvg-logo="https://image.xumo.com/v1/channels/channel/9991002/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",Circle Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Complex" tvg-logo="https://image.xumo.com/v1/channels/channel/9999947/300x300.png?type=color_onBlack_cropped" group-title="Travel & Lifestyle",Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glamour" tvg-logo="https://image.xumo.com/v1/channels/channel/9999976/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GoTraveler" tvg-logo="https://image.xumo.com/v1/channels/channel/9999955/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",GoTraveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GQ" tvg-logo="https://image.xumo.com/v1/channels/channel/9999975/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Journy" tvg-logo="https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",Journy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People Are Awesome" tvg-logo="https://i.postimg.cc/FKVMhbg9/People-Are-Awesome.png" group-title="Travel & Lifestyle",People Are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vanity Fair" tvg-logo="https://image.xumo.com/v1/channels/channel/9999978/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vogue" tvg-logo="https://image.xumo.com/v1/channels/channel/9999977/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WeatherSpy" tvg-logo="https://image.xumo.com/v1/channels/channel/9999965/300x300.png?type=color_onBlack" group-title="Travel & Lifestyle",WeatherSpy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BatteryPop" tvg-logo="https://image.xumo.com/v1/channels/channel/9999909/300x300.png?type=color_onBlack" group-title="Kids & Family",BatteryPop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dove Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/9999943/300x300.png?type=color_onBlack" group-title="Kids & Family",Dove Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdovenow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Family" tvg-logo="https://image.xumo.com/v1/channels/channel/9999929/300x300.png?type=color_onBlack" group-title="Kids & Family",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heartland" tvg-logo="https://image.xumo.com/v1/channels/channel/88883599/300x300.png?type=color_onBlack" group-title="Kids & Family",Heartland
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxheartland/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pocket.Watch Game-On" tvg-logo="https://image.xumo.com/v1/channels/channel/9999980/300x300.png?type=color_onBlack" group-title="Kids & Family",Pocket.Watch Game-On
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Goggles" tvg-logo="https://image.xumo.com/v1/channels/channel/9999926/300x300.png?type=color_onBlack" group-title="Kids & Family",Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chive TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999932/300x300.png?type=color_onBlack" group-title="Comedy",Chive TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Dynamics" tvg-logo="https://image.xumo.com/v1/channels/channel/9999944/300x300.png?type=color_onBlack" group-title="Comedy",Comedy Dynamics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomedydynamics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dry Bar Comedy" tvg-logo="https://image.xumo.com/v1/channels/channel/9999959/300x300.png?type=color_onBlack" group-title="Comedy",Dry Bar Comedy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrybar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FailArmy" tvg-logo="https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack" group-title="Comedy",FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Funny Or Die TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999934/300x300.png?type=color_onBlack" group-title="Comedy",Funny Or Die TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just For Laughs: Gags" tvg-logo="https://image.xumo.com/v1/channels/channel/9999935/300x300.png?type=color_onBlack" group-title="Comedy",Just For Laughs: Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kevin Hart's LOL! Network" tvg-logo="https://image.xumo.com/v1/channels/channel/9999981/300x300.png?type=color_onBlack" group-title="Comedy",Kevin Hart's LOL! Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pet Collective" tvg-logo="https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack" group-title="Comedy",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Court TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9991005/300x300.png?type=color_onBlack" group-title="Crime & Scandal",Court TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcourttv/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Divorce Court" tvg-logo="https://image.xumo.com/v1/channels/channel/9999910/300x300.png?type=color_onBlack" group-title="Crime & Scandal",Divorce Court
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdivorcecourt/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://image.xumo.com/v1/channels/channel/88883600/300x300.png?type=color_onBlack" group-title="Crime & Scandal",Dr. G: Medical Examiner
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrgmedicalexaminer/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Forensic Files" tvg-logo="https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack" group-title="Crime & Scandal",Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Law & Crime" tvg-logo="https://i.postimg.cc/9X9sHVsb/Law-Crime.png" group-title="Crime & Scandal",Law & Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlawandcrime/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reelz Famous & Infamous" tvg-logo="https://image.xumo.com/v1/channels/channel/9999928/300x300.png?type=color_onBlack" group-title="Crime & Scandal",Reelz Famous & Infamous
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unsolved Mysteries" tvg-logo="https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack" group-title="Crime & Scandal",Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Family Feud" tvg-logo="https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack" group-title="Reality & Game Shows",Family Feud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmhub" tvg-logo="https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack" group-title="Movies",Filmhub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gravitas Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack" group-title="Movies",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TheGrio" tvg-logo="https://image.xumo.com/v1/channels/channel/9999960/300x300.png?type=color_onBlack" group-title="Movies",TheGrio
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/channels/channel/888883501/300x300.png?type=color_onBlack" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcrownmediahallmarkmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MagellanTV Now" tvg-logo="https://image.xumo.com/v1/channels/channel/9999931/300x300.png?type=color_onBlack" group-title="Movies",MagellanTV Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maverick Black Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack" group-title="Movies",Maverick Black Cinema
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmRise Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack" group-title="Summer Movies Showcase",FilmRise Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Snowy River: The McGregor Saga" tvg-logo="https://image.xumo.com/v1/channels/channel/88883602/300x300.png?type=color_onBlack" group-title="Westerns",Snowy River: The McGregor Saga
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-samuelgoldwynlicensed/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Western Bound" tvg-logo="https://i.postimg.cc/J4cgtxrB/Western-Bound.png" group-title="Westerns",Western Bound
+https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxcowboyway/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Classic Rock" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-classic-rock/logo_20231219_222210_68.png" group-title="Music",Stingray Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Greatest Hits" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-greatest-hits/logo_20231219_222354_68.png" group-title="Music",Stingray Greatest Hits
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Hit List" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20231219_222438_68.png" group-title="Music",Stingray Hit List
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Hot Country" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hot-country/logo_20231219_222458_68.png" group-title="Music",Stingray Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music",Stingray Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Remember the '80s" tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20231219_222612_68.png" group-title="Music",Stingray Remember the '80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayeverything80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Soul Storm" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hiphop-and-rnb/logo_20231219_222417_68.png" group-title="Music",Stingray Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo 80s" tvg-logo="https://image.xumo.com/v1/channels/channel/9991007/300x300.png?type=color_onBlack" group-title="Music",Vevo 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Pop" tvg-logo="https://image.xumo.com/v1/channels/channel/9999967/300x300.png?type=color_onBlack" group-title="Music",Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=
